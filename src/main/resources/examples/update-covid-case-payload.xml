@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<covidCase>
+    <source id="344444">Hospital1</source>
+    <caseType>positive</caseType>
+    <firstname>John</firstname>
+    <lastname>Nixon</lastname>
+    <phone>541-754-3010</phone>
+    <email>john@gmail.com</email>
+    <dateOfBirth>1989-04-26</dateOfBirth>
+    <nationalID>209-49-6193</nationalID>
+    <nationalIDType>SSN</nationalIDType>
+    <address>
+        <streetAddress>1600 Pennsylvania Avenue NW</streetAddress>
+        <city>Dallas</city>
+        <state>TX</state>
+        <postal>20500</postal>
+        <country>USA</country>
+    </address>
+</covidCase>
